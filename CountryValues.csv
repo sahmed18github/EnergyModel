@@ -1,0 +1,9 @@
+Fields,CountryA,CountryB
+Population,80000000,110000000
+Water Into Region,35,60
+Energy Demand Coefficient,1818.181818,1818.181818
+Existing Renewable Energy Capacity,21818181818,50000000000
+ECR Energy from Existing Renewable,0.051,0.021
+ECR Energy from New Renewable,0.08,0.065
+ECR Energy from Fossil Fuel,0.06,0.04
+WRC Energy from Fossil Fuel,8.5E-11,8.5E-11

@@ -1,0 +1,22 @@
+Name,Unit
+Population,people
+Water Into Region,cubic kilometers (km^3)
+Energy Demand Coefficent,kilowatt hours per person (kWh/person)
+Existing Renewable Energy Capacity,kilowatt hours (kWh)
+Total Energy Demand,kilowatt hours (kWh)
+Percent Energy from Renewable,%
+Renewable Energy Total,kilowatt hours (kWh)
+Amount Energy from Existing Renewable,kilowatt hours (kWh)
+Amount Energy from New Renewable,kilowatt hours (kWh)
+Amount Energy from Fossil Fuel,kilowatt hours (kWh)
+ECR Energy from Existing Renewable,dollars per kilowatt hours ($/kWh)
+ECR Energy from New Renewable,dollars per kilowatt hours ($/kWh)
+ECR Energy from Fossil Fuel,dollars per kilowatt hours ($/kWh)
+Cost Energy from Existing Renewable,$
+Cost Energy from New Renewable,$
+Cost Energy from Fossil Fuel,$
+Cost Energy Total,$
+Emissions from Fossil Fuel,metric tons of CO2 (MTCO2)
+WRC Energy from Fossil Fuel,cubic kilometers per kilowatt hours (km^3/kWh)
+Water Required for Energy,cubic kilometers (km^3)
+WSI,(unitless)
